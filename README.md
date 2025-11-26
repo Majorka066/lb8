@@ -4,9 +4,11 @@
 
 ## 📸 Скриншоты приложения
 
-![Главный экран приложения](screenshots/main-screen.png)
+![Главный экран приложения](<img width="1492" height="719" alt="image" src="https://github.com/user-attachments/assets/2ce23521-0c8d-4c64-9f5a-f5a33b02724c" />
+)
 
-![Пустой список задач](screenshots/empty-state.png)
+![Список задач](<img width="1491" height="719" alt="image" src="https://github.com/user-attachments/assets/b6ef850e-4a38-44dc-b847-f29551a695e0" />
+)
 
 ## ✨ Возможности
 
