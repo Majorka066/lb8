@@ -51,6 +51,8 @@ const [tasks, setTasks] = useState(() => {
   return saved ? JSON.parse(saved) : [];
 });
 ```
+<img width="690" height="96" alt="image" src="https://github.com/user-attachments/assets/5906a7be-b831-473c-9170-080af3463816" />
+<img width="692" height="381" alt="image" src="https://github.com/user-attachments/assets/f8dbe597-9e7e-4d28-a3dc-7f2947737a94" />
 
 ## 🤖 Использование ИИ в разработке
 
